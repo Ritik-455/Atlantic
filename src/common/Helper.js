@@ -1,4 +1,4 @@
-import car from '../assets/images/PNG/car.png'
+import car from '../assets/images/Webp/car.webp'
 
 export const Card = [
     {
