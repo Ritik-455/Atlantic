@@ -6,10 +6,10 @@ import Comnbtn from '../common/Commonbtn';
 function Poinner() {
     return (
         <>
-            <div className="mt-neg-3 ">
+            <div className="mt-neg-3 " id="Services">
                 <div className="container-2 pt-poinner">
                     <div className="d-flex justify-content-end">
-                        <h3 className=' ff-poppins fw-bolder  text-52 lh-md-62 text-white mb-0 text-uppercase'>Pioneers of <span className=' fw-normal fst-italic bg-text-red'> Lubricants </span>
+                        <h3 className=' ff-poppins fw-bolder  text-52 lh-md-62 text-white mb-0 text-uppercase'>Pioneers of <span className=' fw-normal fst-italic red-blog'> Lubricants </span>
                             <span className="d-lg-block">& Grease Manufacturing</span></h3>
                     </div>
                 </div>

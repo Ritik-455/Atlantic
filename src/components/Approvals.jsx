@@ -5,7 +5,7 @@ import bluelayer2 from '../assets/images/PNG/blue-ellips-2.png'
 function Approvals() {
     return (
         <>
-            <div className="container-2">
+            <div className="container-2" id="Testimonials">
                 <h3 className=' ff-poppins fw-bolder  text-52 lh-62 text-white mb-0 text-uppercase'> OEM <span className=' fw-normal fst-italic bg-text-blue'> Approvals</span></h3>
             </div>
             <div className="container-full position-relative pb-64">

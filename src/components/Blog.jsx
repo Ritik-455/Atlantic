@@ -5,8 +5,8 @@ import Comnbtn from '../common/Commonbtn'
 function Blog() {
     return (
         <>
-            <div className="container-2 pb-blog pt-3 pt-md-5 pt-lg-0">
-                <h3 className=' ff-poppins fw-bolder  text-52 lh-62 text-white mb-0 text-uppercase text-center'>explore our  <span className=' fw-normal fst-italic bg-text-red h-69'> Blogs</span></h3>
+            <div className="container-2 pb-blog pt-3 pt-md-5 pt-lg-0" id="Blogs">
+                <h3 className=' ff-poppins fw-bolder  text-52 lh-62 text-white mb-0 text-uppercase text-center'>explore our  <span className=' fw-normal fst-italic red-blog h-69'> Blogs</span></h3>
                 <div className="row mt-blog">
                     {Card.map((data, index) => (
                         <>

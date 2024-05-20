@@ -7,7 +7,7 @@ import mer from '../assets/images/PNG/mer.png'
 function About() {
     return (
         <>
-            <section className="bg-about position-relative">
+            <section className="bg-about position-relative" id="Categories">
                 <div className="container-2 d-flex justify-content-center">
                     <div className="icon-box position-relative">
                         <div className=" d-none d-lg-block">
@@ -58,7 +58,7 @@ function About() {
                         </div>
                     </div>
                 </div>
-                <div className="container-2 pt-about pb-5">
+                <div className="container-2 pt-about pb-5" id="About">
                     <div className="d-flex justify-content-center">
                         <h3 className=' ff-poppins fw-bolder  text-52 lh-md-62 text-white mb-0 text-uppercase max-w-578 text-center'>Our <span className=' fw-normal fst-italic bg-text-red'> numbers </span>
                              say about us</h3>
