@@ -1,6 +1,5 @@
 import React from 'react'
 import bluelayer from '../assets/images/PNG/blue-ellips.png'
-import bluelayer2 from '../assets/images/PNG/blue-ellips-2.png'
 
 function Approvals() {
     return (
@@ -16,8 +15,7 @@ function Approvals() {
                     </div>
                 </div>
                 <div className="position-absolute blue-pos blue-img-width">
-                    <img src={bluelayer} alt="bluelayer" className=' d-none d-xxl-block' data-aos="fade-down"/>
-                    <img src={bluelayer2} alt="bluelayer2" className=' d-xxl-none w-100' />
+                    <img src={bluelayer} alt="bluelayer" className=' d-none d-lg-block' data-aos="fade-down"/>
                 </div>
             </div>
         </>

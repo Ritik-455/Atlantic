@@ -23,7 +23,7 @@ function Poinner() {
                         </div>
                     </div>
                     <div className="position-absolute ylw-pos ">
-                        <img src={ylwlayer} alt="ylwlayer" className='img-width w-100' data-aos="fade-down" />
+                        <img src={ylwlayer} alt="ylwlayer" className='img-width w-100  d-none d-lg-block' data-aos="fade-down" />
                     </div>
                 </div>
             </div>

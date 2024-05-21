@@ -34,11 +34,11 @@
 }
 
 .mt-45 {
-  margin-top: 45px;
+  margin-top: 18px;
 }
 
 .mt-52 {
-  margin-top: 52px;
+  margin-top: 18px;
 }
 
 .mt-27 {
@@ -427,7 +427,7 @@ ul {
   }
 
   .pb-poinner {
-    padding-bottom: 153px;
+    padding-bottom: 100px;
   }
 
   .mt-logo {
@@ -470,6 +470,14 @@ ul {
 
   .mt-blog {
     margin-top: 83px;
+  }
+
+  .mt-52 {
+    margin-top: 52px;
+  }
+
+  .mt-45 {
+    margin-top: 45px;
   }
 
   .mt-logo {
